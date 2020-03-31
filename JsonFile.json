@@ -1,0 +1,40 @@
+[
+    {
+        "OrderLines": [
+            {
+                "ItemDescription": "BRovo Pst Sor (PO) D0 9x3 27kg",
+                "Quantity": "2025.000000",
+                "StockStatus": "22",
+                "PackSize": "27",
+                "AddressId": "540001",
+                "NetWeight": "1.000",
+                "RequestedDeliveryDate": "20191204",
+                "OrderLineNumber": "1",
+                "ItemNumber": "12945365"
+            }
+        ],
+        "MessageNumber": "0000024252",
+        "OrderDate": "20191107",
+        "SalesPerson": "Savio Mauro",
+        "CustomerOrderNumber": "0014344318",
+        "DeliveryAddresses": [
+            {
+                "Co-driver": "N",
+                "DeliveryAddressLine2": "Segismundo Pereira",
+                "CityCode": "70206",
+                "UF": "MG",
+                "AddressId": "540001",
+                "Country": "BR",
+                "City": "Uberlandia",
+                "ZipCode": "38408-369",
+                "DeliveryAddressLine1": "Rod BR 050 Km 25 a Direita"
+            }
+        ],
+        "CustomerNumber": "189608",
+        "Facility": "54E",
+        "DeliveryNumber": "16496362",
+        "FreightType": "FOB",
+        "COBlockCode": "0",
+        "OrderAmount": "29362.50"
+    }
+]
